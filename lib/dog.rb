@@ -1,2 +1,3 @@
 class Dog < ActiveRecord
+  
 end
